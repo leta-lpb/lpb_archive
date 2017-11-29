@@ -4,6 +4,7 @@ ________________________________________________________________________________
 To use LPB Archive you need to have the following:
 Source video files - 10bit – yCbCr uncompressed in a .mov container. 
 Three programs (listed below).
+
 FFMPEG - https://www.ffmpeg.org/download.html
 Mediainfo CLI - https://mediaarea.net/en/MediaInfo/Download/Windows
 Mediaconch CLI - https://mediaarea.net/MediaConch/downloads/windows.html
