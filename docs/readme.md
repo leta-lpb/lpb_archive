@@ -39,5 +39,8 @@ ________________________________________________________________________________
 
 If you would like to change the mediaconch file to check for different properties of the files simply open up the .xml files that shipped along with the program in the GUI version of Mediaconch to change the necessary values. The name of the file must remain the same.  These files must reside in the “Tools” folder configured above. 
 Mezzanine-policy.xml – Policy for mezzanine file.
+
 mov-policy.xml – Policy for .mov master file.
+
 FFV1-policy.xml – Policy for .mkv FFV1 master file.
+
