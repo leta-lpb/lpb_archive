@@ -1,0 +1,45 @@
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\bin\Debug\LPB_Archive.exe.config
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\bin\Debug\LPB_Archive.exe
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\bin\Debug\LPB_Archive.pdb
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.Properties.Resources.resources
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.exe
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.pdb
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.LPBArchive.resources
+E:\Documents\Projects\LPB_Archive\LPB_Archive\bin\Debug\LPB_Archive.exe.config
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.exe
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.pdb
+E:\Documents\Projects\LPB_Archive\LPB_Archive\bin\Debug\LPB_Archive.exe
+E:\Documents\Projects\LPB_Archive\LPB_Archive\bin\Debug\LPB_Archive.pdb
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.LPBArchive.resources
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.Properties.Resources.resources
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.csproj.GenerateResource.Cache
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Debug\LPB_Archive.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\Public Code\LPB_Archive\bin\Debug\LPB_Archive.exe.config
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.exe
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.pdb
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.LPBArchive.resources
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.Properties.Resources.resources
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.csproj.GenerateResource.Cache
+E:\Documents\Projects\Public Code\LPB_Archive\bin\Debug\LPB_Archive.exe
+E:\Documents\Projects\Public Code\LPB_Archive\bin\Debug\LPB_Archive.pdb
+C:\Users\Adam Richard\Documents\Visual Studio 2017\Projects\Public Code\LPB_Archive\bin\Debug\LPB_Archive.exe.config
+C:\Users\Adam Richard\Documents\Visual Studio 2017\Projects\Public Code\LPB_Archive\bin\Debug\LPB_Archive.exe
+C:\Users\Adam Richard\Documents\Visual Studio 2017\Projects\Public Code\LPB_Archive\bin\Debug\LPB_Archive.pdb
+C:\Users\Adam Richard\Documents\Visual Studio 2017\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.csprojResolveAssemblyReference.cache
+C:\Users\Adam Richard\Documents\Visual Studio 2017\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.LPBArchive.resources
+C:\Users\Adam Richard\Documents\Visual Studio 2017\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.Properties.Resources.resources
+C:\Users\Adam Richard\Documents\Visual Studio 2017\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.csproj.GenerateResource.Cache
+C:\Users\Adam Richard\Documents\Visual Studio 2017\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.csproj.CoreCompileInputs.cache
+C:\Users\Adam Richard\Documents\Visual Studio 2017\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.exe
+C:\Users\Adam Richard\Documents\Visual Studio 2017\Projects\Public Code\LPB_Archive\obj\Debug\LPB_Archive.pdb
+E:\Documents\Projects\Archive Public Code\LPB_Archive\bin\Debug\LPB_Archive.exe.config
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Debug\LPB_Archive.exe
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Debug\LPB_Archive.pdb
+E:\Documents\Projects\Archive Public Code\LPB_Archive\bin\Debug\LPB_Archive.exe
+E:\Documents\Projects\Archive Public Code\LPB_Archive\bin\Debug\LPB_Archive.pdb
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Debug\LPB_Archive.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Debug\LPB_Archive.LPBArchive.resources
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Debug\LPB_Archive.Properties.Resources.resources
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Debug\LPB_Archive.csproj.GenerateResource.Cache

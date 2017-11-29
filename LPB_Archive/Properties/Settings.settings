@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LPB_Archive.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="var_write_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\clouddrive\</Value>
+    </Setting>
+    <Setting Name="var_read_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\captures\</Value>
+    </Setting>
+    <Setting Name="var_tools_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\archive\</Value>
+    </Setting>
+    <Setting Name="var_mi_archive_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\invalid</Value>
+    </Setting>
+    <Setting Name="var_mediainfo_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MediaInfo.exe</Value>
+    </Setting>
+    <Setting Name="var_status" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not Running</Value>
+    </Setting>
+    <Setting Name="var_mediaconch_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MediaConch.exe</Value>
+    </Setting>
+    <Setting Name="var_web_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\invalid</Value>
+    </Setting>
+    <Setting Name="var_ldma_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\invalid</Value>
+    </Setting>
+    <Setting Name="var_ffmpeg_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ffmpeg.exe</Value>
+    </Setting>
+    <Setting Name="var_delete_box" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

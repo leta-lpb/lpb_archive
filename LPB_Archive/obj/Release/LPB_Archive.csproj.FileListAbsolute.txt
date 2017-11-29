@@ -1,0 +1,49 @@
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\bin\Release\LPB_Archive.exe.config
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\bin\Release\LPB_Archive.exe
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\bin\Release\LPB_Archive.pdb
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.LPBArchive.resources
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.Properties.Resources.resources
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.exe
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.pdb
+E:\Documents\Visual Studio 2012\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\LPB_Archive\LPB_Archive\bin\Release\LPB_Archive.exe.config
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.exe
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.pdb
+E:\Documents\Projects\LPB_Archive\LPB_Archive\bin\Release\LPB_Archive.exe
+E:\Documents\Projects\LPB_Archive\LPB_Archive\bin\Release\LPB_Archive.pdb
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.LPBArchive.resources
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.Properties.Resources.resources
+E:\Documents\Projects\LPB_Archive\LPB_Archive\obj\Release\LPB_Archive.csproj.GenerateResource.Cache
+E:\Archive\LPB_Archive.exe.config
+E:\Archive\LPB_Archive.exe
+E:\Archive\LPB_Archive.pdb
+E:\Documents\Projects\State_Archive\LPB_Archive\obj\Release\LPB_Archive.exe
+E:\Documents\Projects\State_Archive\LPB_Archive\obj\Release\LPB_Archive.pdb
+E:\Documents\Projects\State_Archive\LPB_Archive\bin\Final\LPB_Archive.exe.config
+E:\Documents\Projects\State_Archive\LPB_Archive\bin\Final\LPB_Archive.exe
+E:\Documents\Projects\State_Archive\LPB_Archive\bin\Final\LPB_Archive.pdb
+E:\Documents\Projects\State_Archive\LPB_Archive\obj\Release\LPB_Archive.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\State_Archive\LPB_Archive\obj\Release\LPB_Archive.LPBArchive.resources
+E:\Documents\Projects\State_Archive\LPB_Archive\obj\Release\LPB_Archive.Properties.Resources.resources
+E:\Documents\Projects\State_Archive\LPB_Archive\obj\Release\LPB_Archive.csproj.GenerateResource.Cache
+E:\Documents\Projects\Public Code\LPB_Archive\bin\Final\LPB_Archive.exe.config
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Release\LPB_Archive.exe
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Release\LPB_Archive.pdb
+E:\Documents\Projects\Public Code\LPB_Archive\bin\Final\LPB_Archive.exe
+E:\Documents\Projects\Public Code\LPB_Archive\bin\Final\LPB_Archive.pdb
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Release\LPB_Archive.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Release\LPB_Archive.LPBArchive.resources
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Release\LPB_Archive.Properties.Resources.resources
+E:\Documents\Projects\Public Code\LPB_Archive\obj\Release\LPB_Archive.csproj.GenerateResource.Cache
+E:\Documents\Projects\Archive Public Code\LPB_Archive\bin\Final\LPB_Archive.exe.config
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Release\LPB_Archive.exe
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Release\LPB_Archive.pdb
+E:\Documents\Projects\Archive Public Code\LPB_Archive\bin\Release\LPB_Archive.exe.config
+E:\Documents\Projects\Archive Public Code\LPB_Archive\bin\Release\LPB_Archive.exe
+E:\Documents\Projects\Archive Public Code\LPB_Archive\bin\Release\LPB_Archive.pdb
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Release\LPB_Archive.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Release\LPB_Archive.LPBArchive.resources
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Release\LPB_Archive.Properties.Resources.resources
+E:\Documents\Projects\Archive Public Code\LPB_Archive\obj\Release\LPB_Archive.csproj.GenerateResource.Cache
