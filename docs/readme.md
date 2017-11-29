@@ -6,8 +6,12 @@ Source video files - 10bit – yCbCr uncompressed in a .mov container.
 Three programs (listed below).
 
 FFMPEG - https://www.ffmpeg.org/download.html
+
 Mediainfo CLI - https://mediaarea.net/en/MediaInfo/Download/Windows
+
 Mediaconch CLI - https://mediaarea.net/MediaConch/downloads/windows.html
+
+
 
 Place each of the executables in the same folder you placed the downloaded archive software. An example folder would be c:\archive\ . This is done to make the archive program a little more portable. You can specify a different folder for the above executables if it’s required. 
 
@@ -17,9 +21,13 @@ ________________________________________________________________________________
 Configuration
 ________________________________________________________________________________________________________________________________________
 Once the program is loaded, specify the three folder locations. Please note a trailing \ needs on each of the paths.
-Input Path – Folder where the 10bit YCbCr .mov files are located
-Output path – Where you want the files to be placed during/after processing
+
+Input Path – Folder where the 10bit YCbCr .mov files are located.
+
+Output path – Where you want the files to be placed during/after processing.
+
 Tools Path – Where the three executables mentioned above are located. 
+
 Checking the “Delete unused master file” box will get rid one of the two master files depending on how the ffmpeg frame data comparison goes. Best case is you end up with a FFV1 .mkv file which is same quality as the uncompressed .mov but a significantly smaller file. Else you’ll end up uncompressed .mov
  
 
